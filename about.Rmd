@@ -1,0 +1,14 @@
+---
+title: "about"
+author: "Dang Lin dl3757"
+date: "2024-10-17"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+information about this website
+
+this website was made as an example inn [p8105](https://8105.com) for "making website". i am 
